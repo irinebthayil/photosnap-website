@@ -1,0 +1,11 @@
+.ParentDiv {
+  display: flex;
+  justify-content: space-between;
+  padding: 16px 2%;
+  align-items: center;
+}
+
+.NavLinks {
+  display: flex;
+  gap: 32px;
+}
